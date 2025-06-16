@@ -1,0 +1,1 @@
+<h1>This is student area!</h1>
